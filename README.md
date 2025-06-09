@@ -13,7 +13,7 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Devices Exposed to the Internet)](https://github.com/scomston/threat-hunting-scenarios-device-exposed-to-the-internet)**
 - **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/scomston/threat-hunting-scenario-sudden-network-slowdown)**
-
+- **[Threat Hunting Scenario (Suspected Data Exfiltration)](https://github.com/scomston/threat-hunting-scenario-suspected-data-exfiltration)**
 
 <hr/>
 
