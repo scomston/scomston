@@ -10,11 +10,14 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Devices Exposed to the Internet)](https://github.com/scomston/threat-hunting-scenarios-device-exposed-to-the-internet)**
-- **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/scomston/threat-hunting-scenario-sudden-network-slowdown)**
-- **[Threat Hunting Scenario (Suspected Data Exfiltration)](https://github.com/scomston/threat-hunting-scenario-suspected-data-exfiltration)**
-- **[Threat Hunting Scenario (New Zero-Day PwnCrypt Ransomware)](https://github.com/scomston/threat-hunting-scenario-new-zero-day-pwnCrypt-ransomware)**
+- **[Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Devices Exposed to the Internet](https://github.com/scomston/threat-hunting-scenarios-device-exposed-to-the-internet)**
+- **[Sudden Network Slowdowns](https://github.com/scomston/threat-hunting-scenario-sudden-network-slowdown)**
+- **[Suspected Data Exfiltration](https://github.com/scomston/threat-hunting-scenario-suspected-data-exfiltration)**
+- **[New Zero-Day PwnCrypt Ransomware](https://github.com/scomston/threat-hunting-scenario-new-zero-day-pwnCrypt-ransomware)**
+
+## 🛠️ Incident Response Investigations using Microsoft Sentinel
+- **[Virtual Machine Brute Force Detection](https://github.com/scomston/incident-response-virtual-machine-brute-force-detection)**
 <hr/>
 
 ## 🤳 Connect With Me
@@ -33,3 +36,4 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+
