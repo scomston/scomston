@@ -22,6 +22,10 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 - **[Potential Impossible Travel](https://github.com/scomston/incident-response-potential-impossible-travel)**
 <hr/>
 
+## 🖥️ Web Development Projects
+- **[Quote Generator (Javascript)](https://github.com/scomston/quote-generator)**
+- **[Infinite Scroll (Javascript)](https://github.com/scomston/infinite-scroll))**
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
