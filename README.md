@@ -11,7 +11,7 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[TOR Browser Usage](https://github.com/scomston/threat-hunting-scenario-tor/)**
+- **[Unauthorized TOR Browser Usage](https://github.com/scomston/threat-hunting-scenario-tor/)**
 - **[Devices Exposed to the Internet](https://github.com/scomston/threat-hunting-scenarios-device-exposed-to-the-internet)**
 - **[Sudden Network Slowdowns](https://github.com/scomston/threat-hunting-scenario-sudden-network-slowdown)**
 - **[Suspected Data Exfiltration](https://github.com/scomston/threat-hunting-scenario-suspected-data-exfiltration)**
