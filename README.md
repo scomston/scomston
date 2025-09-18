@@ -6,7 +6,6 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/scomston/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **[STIG Implementation ID: WN10-AU-000500 (PowerShell)](https://github.com/scomston/DISA_STIGS/blob/main/WN10-AU-000500)**
 
 ## 🚨 Threat Hunting and Security Operations
