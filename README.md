@@ -20,7 +20,6 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 - **[Virtual Machine Brute Force Detection](https://github.com/scomston/incident-response-virtual-machine-brute-force-detection)**
 - **[PowerShell Suspicious Web Request](https://github.com/scomston/incident-response-powershell-suspicious-web-request)**
 - **[Potential Impossible Travel](https://github.com/scomston/incident-response-potential-impossible-travel)**
-<hr/>
 
 ## 🖥️ Web Development Projects
 - **[Quote Generator (Javascript)](https://github.com/scomston/quote-generator)**
