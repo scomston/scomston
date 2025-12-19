@@ -15,8 +15,8 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 - **[Sudden Network Slowdowns](https://github.com/scomston/threat-hunting-scenario-sudden-network-slowdown)**
 - **[Suspected Data Exfiltration](https://github.com/scomston/threat-hunting-scenario-suspected-data-exfiltration)**
 - **[New Zero-Day PwnCrypt Ransomware](https://github.com/scomston/threat-hunting-scenario-new-zero-day-pwnCrypt-ransomware)**
-- **[SupportTool Intrusions Case [CTF]](https://github.com/scomston/threat-hunting/blob/main/SupportTool-Intrusion-Case.md)**
-
+- **[The Helpdesk Deception [CTF]](https://github.com/scomston/threat-hunting/blob/main/The-Helpdesk-Deception.md)**
+- **[Port of Entry [CTF]](https://github.com/scomston/threat-hunting/blob/main/Port-Of-Entry.md)**
 
 ## 🛠️ Incident Response Investigations using Microsoft Sentinel
 - **[Virtual Machine Brute Force Detection](https://github.com/scomston/incident-response-virtual-machine-brute-force-detection)**
@@ -43,4 +43,3 @@ Passionate about cybersecurity, I thrive on solving complex challenges through h
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
-
